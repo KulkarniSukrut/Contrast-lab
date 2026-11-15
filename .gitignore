@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.venv/
+
+# Generated files
+output/
+outputs/
+*.png
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
